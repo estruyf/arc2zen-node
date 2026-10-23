@@ -1,0 +1,24 @@
+{
+  "name": "arc2zen",
+  "version": "1.0.0",
+  "description": "Export Arc/Zen Browser bookmarks to HTML and migrate from Arc to Zen (Node port of olegfour3/arc2zen)",
+  "author": "Elio Struyf",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estruyf/arc2zen-node.git"
+  },
+  "type": "module",
+  "bin": {
+    "arc2zen": "bin/arc2zen.js"
+  },
+  "scripts": {
+    "start": "node bin/arc2zen.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "os": [
+    "darwin"
+  ],
+  "license": "MIT"
+}

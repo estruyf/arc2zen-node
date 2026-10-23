@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+# Exports and browser data: contain personal bookmarks/sessions
+*.html
+StorableSidebar.json
+*.jsonlz4
+*.baklz4
+*.backup_*
