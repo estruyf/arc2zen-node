@@ -4,6 +4,14 @@ Node.js port of [olegfour3/arc2zen](https://github.com/olegfour3/arc2zen): expor
 
 ## Run
 
+No clone needed:
+
+```bash
+npx github:estruyf/arc2zen-node
+```
+
+From a local checkout:
+
 ```bash
 node bin/arc2zen.js        # or: npm start, or `npm link` and then `arc2zen`
 ```

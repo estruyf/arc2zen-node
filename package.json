@@ -11,6 +11,20 @@
   "bin": {
     "arc2zen": "bin/arc2zen.js"
   },
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "keywords": [
+    "arc",
+    "zen",
+    "zen-browser",
+    "arc-browser",
+    "bookmarks",
+    "migration"
+  ],
+  "homepage": "https://github.com/estruyf/arc2zen-node#readme",
+  "bugs": "https://github.com/estruyf/arc2zen-node/issues",
   "scripts": {
     "start": "node bin/arc2zen.js"
   },
